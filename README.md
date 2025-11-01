@@ -2,7 +2,9 @@
 
 ## About me
 I'm from Argentina
+
 I'm a PhD student in the Livneh lab, Brain Sciences Department
+
 I'm studying how the brain learns to antipate challenges and create top-down (from the brain to the body) signals to prepare the body accordingly
 
 ---
