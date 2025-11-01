@@ -1,0 +1,17 @@
+title: "Einav Litvak"
+description: "Personal site / resume"
+baseurl: ""
+url: "https://einavlitvak.github.io"
+remote_theme: murraco/jekyll-theme-minimal-resume
+plugins:
+  - jekyll-remote-theme
+
+# Site / user settings used by the theme
+username: "Einav Litvak"
+user_title: "Einav Litvak"
+user_description: "Researcher, Livneh Lab, Weizmann Institute"
+email: "einav.litvak@weizmann.ac.il"
+personal_website: "https://einavlitvak.github.io"
+
+# Optional: change these if you host under a project subpath
+# baseurl: "/repo-name"

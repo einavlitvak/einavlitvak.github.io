@@ -1,0 +1,32 @@
+---
+---
+/* Pale lilac theme overrides for Minimal Resume */
+
+/* Header background and accent */
+.header, .site-header {
+  background: #F3E8FF; /* pale lilac */
+}
+
+.site-title, .site-title a {
+  color: #5D3FD3; /* darker lilac for title */
+}
+
+a, a:visited {
+  color: #6B4C9A; /* link color */
+}
+
+/* Buttons / accents */
+.button, .btn, .social a {
+  background: #DCC9FF;
+  color: #2b1b3a;
+}
+
+/* Page background */
+body {
+  background: #fff;
+}
+
+/* Make sure code blocks remain readable */
+pre, code {
+  background: #f7f7fb;
+}
