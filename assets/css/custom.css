@@ -1,0 +1,22 @@
+/* Custom CSS for overriding theme styles */
+
+/* Change header background colors */
+header {
+    background: linear-gradient(to right, #ff7f50, #1e90ff); /* Example colors */
+    position: relative;
+}
+
+/* Add circular image in the middle */
+header::after {
+    content: '';
+    background-image: url('path-to-your-image.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
